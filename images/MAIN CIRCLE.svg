@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="631" height="582" viewBox="0 0 631 582">
+  <g id="Group_245" data-name="Group 245" transform="translate(-350 -4053)">
+    <g id="Group_240" data-name="Group 240" transform="translate(407.469 4053.27)">
+      <g id="Ellipse_93" data-name="Ellipse 93" transform="translate(-0.468 92.731)" fill="none" stroke="#17a551" stroke-width="3" stroke-dasharray="10">
+        <ellipse cx="191" cy="197.5" rx="191" ry="197.5" stroke="none"/>
+        <ellipse cx="191" cy="197.5" rx="189.5" ry="196" fill="none"/>
+      </g>
+      <g id="Ellipse_94" data-name="Ellipse 94" transform="translate(3.532 -0.269)" fill="none" stroke="#17a551" stroke-width="3" stroke-dasharray="10">
+        <ellipse cx="285" cy="291" rx="285" ry="291" stroke="none"/>
+        <ellipse cx="285" cy="291" rx="283.5" ry="289.5" fill="none"/>
+      </g>
+    </g>
+    <ellipse id="Ellipse_95" data-name="Ellipse 95" cx="146.5" cy="146" rx="146.5" ry="146" transform="translate(350 4212)" fill="#17a551"/>
+    <ellipse id="Ellipse_96" data-name="Ellipse 96" cx="132.5" cy="132" rx="132.5" ry="132" transform="translate(364 4226)" fill="#e6fff0"/>
+    <g id="Group_241" data-name="Group 241" transform="translate(401.171 4360.291)">
+      <rect id="Rectangle_99" data-name="Rectangle 99" width="40" height="2" transform="translate(-0.171 -0.291)" fill="#17a551"/>
+      <rect id="Rectangle_100" data-name="Rectangle 100" width="40" height="2" transform="translate(39.829 -0.291)" fill="#0a54a5"/>
+    </g>
+    <text id="Business_Opportunities" data-name="Business
+Opportunities" transform="translate(401 4317)" fill="#303332" font-size="20" font-family="Castoro-Regular, Castoro"><tspan x="0" y="0">Business</tspan><tspan x="0" y="26">Opportunities</tspan></text>
+    <text id="You_dream_Big_we_make_it_Real_" data-name="You dream Big,
+we make it Real!" transform="translate(401 4377)" fill="#393b3a" font-size="18" font-family="AcuminPro-Light, Acumin Pro" font-weight="300"><tspan x="0" y="13">You dream Big,</tspan><tspan x="0" y="35">we make it Real!</tspan></text>
+  </g>
+</svg>
