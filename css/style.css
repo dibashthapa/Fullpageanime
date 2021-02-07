@@ -1240,7 +1240,7 @@ svg:hover image {
   }
 
   #section6 {
-    background-image: url(./images/NH\ Become\ a\ Distributor\ Banner.png);
+    background-image: url("../images/NH\ Become\ a\ Distributor\ Banner.png");
     background-size: 180% 100%;
   }
 
